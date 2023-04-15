@@ -65,10 +65,10 @@ class Home extends Component {
                 <header className="header">
                     <div className="header-content">
                         <div className="header-logo">
-                            <img alt="codeforgood" src="./img/cfgg.png" />
+                            <img alt="DevJam" src="./img/cfgg.png" />
                         </div>
                         
-                        <h1>CodeForGood</h1>
+                        <h1>DevJam</h1>
                         <div className="Dev-Home">
                             <Devfoliobutton></Devfoliobutton>
                         </div>
@@ -80,13 +80,13 @@ class Home extends Component {
                 <a name="about"></a>
                 <section className="body-content about-swoc" id="about">
                     <div className="about-content col-lg-7">
-                        <h3>About <span>CodeForGood</span></h3>
+                        <h3>About <span>DevJam</span></h3>
                         <p>
-                            CodeForGood is an exciting hackathon event taking place on 29-230th April. This 12-hour event is 
+                            DevJam is an exciting hackathon event taking place on 29-230th April. This 12-hour event is 
                             designed to give attendees the opportunity to explore and learn how hackers build innovative ideas.
                         </p>
                         <p>
-                            At CodeForGood, participants will have the chance to work with some of the leading experts in the field 
+                            At DevJam, participants will have the chance to work with some of the leading experts in the field 
                             and discover new ways of approaching and building ideas. Whether you're an experienced developer or 
                             just starting out, this event is the perfect opportunity to learn and grow your skills.
                         </p>
@@ -96,7 +96,7 @@ class Home extends Component {
                         </p>
                         <p>
                             From technical workshops and mentor sessions to networking events and competitions, there's something 
-                            for everyone at CodeForGood.
+                            for everyone at DevJam.
                         </p>
                     </div>
                     <div className="about-vector">
