@@ -8,9 +8,10 @@
   --winter-border: #e8eaed;
   --winter-w1: #eceef1;
   // --winter-w2: #006fbd;
-  --winter-w2: #0B0C10;
+  // --winter-w2: #0B0C10;
+  --winter-w2: #fff1e4;
   --winter-w3: #8a9c9b;
-  --winter-w4: #acc4d4;
+  --winter-w4: #000000;
   --winter-w5: #d3e4e3;
   // --winter-link: #7ad9fe;
   --winter-link: #4F46E7;
@@ -46,7 +47,7 @@
 
 .card__card__body {
   padding: 24px;
-  background-color: #fff;
+  background-color: #fff1e4;
   border-radius: 6px;
   box-shadow: 0 0 8px 0 rgba(241, 243, 244, 0.5);
   border: 1px solid var(--winter-border);
@@ -85,7 +86,7 @@
 .header {
   // font-family: "Poppins", sans-serif;
   width: 100%;
-  background: var(--winter-w2);
+  background: #fff1e4;
   clip-path: polygon(0 0, 100% 0, 100% 100%, 0 calc(100% - 3vw));
   min-height: 450px;
 }
@@ -119,7 +120,7 @@
   display: flex;
   justify-content: center;
   img {
-    width: 250px;
+    width: 350px;
   }
 }
 
@@ -608,6 +609,7 @@ time {
 
 .sponsors-title {
   font-size: 36px;
+  color: #000000;
   text-align: center;
   font-weight: 300;
 }
@@ -761,7 +763,7 @@ time {
     }
   }
   .header-logo img {
-    width: 200px;
+    width: 300px;
   }
   .about-swoc {
     display: block;
@@ -859,7 +861,7 @@ time {
     font-size: 3rem;
   }
   .header-logo img {
-    width: 150px;
+    width: 200px;
   }
   .about-swoc {
     padding: 0rem 2rem 2rem;
@@ -897,10 +899,10 @@ time {
     font-size: 2rem;
   }
   .header-logo img {
-    width: 120px;
+    width: 200px;
   }
   .hamburger-icon {
-    color: #fff;
+    color: #000000;
     /* font-size: 1.2rem; */
   }
   .about-swoc {
@@ -961,7 +963,7 @@ time {
     font-size: 2rem;
   }
   .header-logo img {
-    width: 110px;
+    width: 300px;
   }
   .about-vector img {
     width: 150px;
@@ -990,7 +992,7 @@ time {
     font-size: 2rem;
   }
   .header-logo img {
-    width: 110px;
+    width: 300px;
   }
   .about-swoc {
     padding: 0rem 1rem 1rem;

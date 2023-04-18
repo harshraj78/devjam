@@ -170,7 +170,7 @@ class Index extends Component {
                                         </div>
                                     </div>
                                     <div className="f-logo">
-                                        <img src={"./img/logos/74243_Social_flat_DT_08.png"} alt="logo" className="logo-footer" />
+                                        <img src={"./img/social logo.png"} alt="logo" className="logo-footer" />
                                     </div>
                                 </div>
                             </div>
@@ -186,9 +186,9 @@ class Index extends Component {
                                     <div className="f-bottom-right">
                                         <p>
                                             Made with ❤️ by
-                                            <a className="yellow-text underline" href="https://github.com/VishrutAggarwal" target="_blank"> Aditi </a>
+                                            <a className="yellow-text underline" href="https://github.com/aditiguliyani" target="_blank"> Aditi </a>
                                             ,
-                                            <a className="yellow-text underline" href="https://github.com/aku1310" target="_blank"> Jai </a>
+                                            <a className="yellow-text underline" href="https://github.com/Shreya995" target="_blank"> Shreya </a>
                                             and
                                             <a className="yellow-text underline" href="https://github.com/harshraj78" target="_blank"> Harsh </a>
                                         </p>

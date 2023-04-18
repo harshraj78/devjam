@@ -44,7 +44,7 @@
   padding: 0.2rem 0;
   transition: 0.4s;
   img {
-    width: 76px;
+    width: 80px;
     transition: 0.4s;
   }
 }
@@ -76,7 +76,7 @@ nav {
       margin-left: 20px;
 
       a {
-        color: #fff;
+        color: #000000;
         font-size: 0.7rem;
         font-weight: 400;
         letter-spacing: 1px;
@@ -159,10 +159,10 @@ nav {
 
 .navbar-nav {
   .nav-link {
-    color: white;
+    color: rgb(0, 0, 0);
     transition: 0.3s;
     &:hover {
-      color: rgba(255, 255, 255, 0.7);
+      color: rgba(129, 129, 129, 0.7);
     }
   }
 }
@@ -230,7 +230,7 @@ nav {
 
   .f-content {
     // font-family: "Poppins", sans-serif;
-    background: var(--winter-w2);
+    background: #fff1e4;
     color: #fff;
     display: flex;
     justify-content: space-between;
@@ -281,7 +281,7 @@ nav {
 .footer-copyright-info {
   padding: 10px 75px 0 0;
   margin-top: auto;
-  color: #e7e8e9;
+  color: #767676;
 }
 
 .footer-bottom {
